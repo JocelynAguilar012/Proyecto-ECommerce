@@ -19,6 +19,7 @@ import c18 from './assets/catalogo/18.png';
 import './stylesheets/Catalogo.css'
 
 const data = {
+  //imagenes de los productos
   products: [
     {
       id: "1",
