@@ -1,0 +1,13 @@
+.Create-account{
+    margin-top: 20px;
+    background-color: orange;
+    margin-right: 50%;
+    text-align: center;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.pb{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

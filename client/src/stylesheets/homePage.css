@@ -1,0 +1,60 @@
+.containerCards{
+    width: 100%;
+    margin-left: 95px;
+    display: flex;
+    max-width: 1100px;
+}
+.card-shoes{
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    cursor: default;
+    transition: all 400ms ease;
+}
+.card-shoes:hover{
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+    transform: translateY(-3%);
+}
+.card-shoes img{
+    width: 100%;
+    height: 210px;
+}
+.card-shoes .contentCard{
+    padding: 15px;
+    text-align: center;
+}
+.card-shoes .contentCard p{
+    line-height: 1.5;
+    color: #6a6a6a;
+}
+.card-shoes .contentCard h3{
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.card-shoes .contentCard .buy-prom{
+    padding: 10px;
+    margin-top: 10px;
+    transition: all 400ms ease;  
+}
+.welcome{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px;
+    color: black;
+}
+.w{
+    text-align: center;
+}
+.nk{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.containerPromo{
+    background-color: orange;
+    margin-right: 50%;
+    text-align: center;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
